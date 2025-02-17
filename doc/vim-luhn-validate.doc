@@ -1,0 +1,11 @@
+VIM-LUHN-VALIDATE.VIM                                            'vim-luhn-validate'
+==============================================================================
+
+A small simple luhn check digit validator
+
+Usage:
+Paste the digits into an empty buffer and use the command
+`<leader>luhn`
+or
+`:luhnValidate
+
